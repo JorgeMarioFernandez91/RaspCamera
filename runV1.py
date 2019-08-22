@@ -1,7 +1,4 @@
-'''
-A program which makes use of a raspberry pi, a camera, and a motion sensor to sense movement and send the recording to 
-the user's dropbox.
-'''
+#A program which makes use of a raspberry pi, a camera, and a motion sensor to sense movement and send the recording to the user's dropbox.
 
 #!/usr/bin/python
  
